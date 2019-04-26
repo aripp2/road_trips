@@ -1,0 +1,103 @@
+body {
+	background-color: #DAF7F7;
+}
+h1 {
+	font-size: 100px;
+	width: 100%;
+	height: 400px;
+	padding: 20px;
+	font-family: Chalkduster, fantasy;
+	color: #1B0991;
+	text-align: center;
+	background-image: url(https://cdn.pixabay.com/photo/2017/06/04/16/33/road-2371503_1280.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll; 
+	background-size: 100%;	 
+	background-color: hsla(0, 100%, 100%, 0.5);
+}
+.intro{
+	width: 75%;
+	margin: auto;
+}
+h2{
+	font-family: Chalkduster, fantasy;
+	color: #1B0991;
+	text-align: center;
+	font-size: 35px;
+} 
+h3 {
+	font-family: Chalkduster, fantasy;
+	color: #1B0991;
+	text-align: center;
+	font-size: 25px;
+}
+p {
+	font-family: Optima, sans-serif;
+	color: #0A0339;
+	font-size: 20px;
+}
+li {
+	font-family: Optima, sans-serif;
+	color: #0A0339;
+	display: inline;
+	text-align: center;
+	padding: 30px, 40px, 30px, 10px;
+	margin: 30px;
+	font-size: 20px;
+}
+.fg {
+	margin: auto;
+	padding: 0px, 20px;
+	width: 80%;
+}
+.flaming {
+	padding-right: 20px;
+}
+.list {
+	text-align: center;
+	list-style-type: none;
+}
+.click {
+	font-family: Optima, sans-serif;
+	color: #0A0339;
+	text-align: center;
+	padding-top: 20px;
+}
+.riley {
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.last {
+	width: 75%;
+	text-align: center;
+	margin: auto;
+}
+.girls {
+	padding-bottom: 20px;	
+}
+.rebekah {
+	float: left;
+	margin: 40px;
+}
+.raelyn {
+	float: right;
+	margin: 40px;
+}
+.collage {
+	margin: 0 auto;
+	display: block;
+	padding-top: 20px;
+}
+.trip {
+	text-align: center;
+	font-size: 40px;
+	width: 75%;
+	padding-top: 400px;
+	margin: auto;	
+}
+.form {
+	margin: auto;
+	text-align: center;
+}
