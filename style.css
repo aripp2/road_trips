@@ -1,5 +1,9 @@
 body {
 	background-color: #DAF7F7;
+	border-style: ridge;
+	border-color: #1B0991;
+	border-width: 15px;
+	padding-bottom: 20px;
 }
 h1 {
 	font-size: 100px;
@@ -13,7 +17,7 @@ h1 {
 	background-repeat: no-repeat;
 	background-attachment: scroll; 
 	background-size: 100%;	 
-	background-color: hsla(0, 100%, 100%, 0.5);
+	margin: 0px;
 }
 .intro{
 	width: 75%;
